@@ -1,4 +1,4 @@
-<h3 align="left">Hi, This is Sourav Paul. I'm passionate about software development and work on projects related to machine learning, computer vision, and control systems. Explore my GitHub for more!</h3>
+<h3 align="left">Hello World!. This is Sourav Paul. I'm passionate about software development and work on projects related to machine learning, computer vision, and control systems. Explore my GitHub for more!</h3>
 
 ###
 
@@ -27,22 +27,22 @@
 
 ###
 
-<img align="right" height="146" src="https://i.imgur.com/dOHB31G.gif"  />
+<img align="right" height="160" src="https://art.pixilart.com/sr2712ab0b35ecd.gif"  />
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/souravpaul22/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="39" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
   <a href="sour4vp4ul@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="39" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/ch1k3n.22" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="51" height="39" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/sour4v_v/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="51" height="39" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
   </a>
 </div>
 
