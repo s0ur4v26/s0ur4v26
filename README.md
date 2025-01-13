@@ -1,4 +1,4 @@
-<h3 align="left">Hi, I'm Sourav Paul, a final-year Mechatronics Engineering student at Khulna University of Engineering and Technology (KUET), Khulna. I'm passionate about software development and work on projects related to machine learning, computer vision, and control systems. Explore my GitHub for more!</h3>
+<h3 align="left">Hi, This is Sourav Paul. I'm passionate about software development and work on projects related to machine learning, computer vision, and control systems. Explore my GitHub for more!</h3>
 
 ###
 
