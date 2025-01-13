@@ -1,4 +1,4 @@
-<h3 align="left">Hello World!. This is Sourav Paul. I'm passionate about software development and work on projects related to machine learning, computer vision, and control systems. Explore my GitHub for more!</h3>
+<h3 align="left">Hello World!. This is Sourav Paul. I'm passionate about software development and work on projects related to indie games ,machine learning, computer vision, and control systems. Explore my GitHub for more!</h3>
 
 ###
 
