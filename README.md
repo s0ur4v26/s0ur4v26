@@ -27,22 +27,24 @@
 
 ###
 
-<img align="right" height="160" src="https://art.pixilart.com/sr2712ab0b35ecd.gif"  />
+<br clear="both">
+
+<img align="right" height="195" src="https://art.pixilart.com/sr2712ab0b35ecd.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/souravpaul22/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="37" alt="linkedin logo"  />
   </a>
   <a href="sour4vp4ul@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="37" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/ch1k3n.22" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="37" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/sour4v_v/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="37" alt="instagram logo"  />
   </a>
 </div>
 
