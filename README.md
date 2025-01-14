@@ -1,4 +1,4 @@
-<h3 align="left">Hello World! This is Sourav Paul. I'm passionate about software development and loved to work on projects related to indie games ,machine learning, computer vision, and control systems. Currently, i am working on my Undergraduate Thesis project which is on Generative Adverserial Network (GAN).    Explore my GitHub for more!</h3>
+<h3 align="left">Hello World! This is Sourav Paul. I'm passionate about software development and loved to work on projects related to indie games ,machine learning, computer vision, and control systems. Currently, i am working on my Undergraduate Thesis project which is on Generative Adverserial Network (GAN). Explore my GitHub for more!</h3>
 
 ###
 
